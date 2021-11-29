@@ -1,6 +1,6 @@
 # ML
 
-Repository with ML hometasks
+Repository with ML home tasks
 
 * [KNN](https://github.com/MIXOZ/ML/tree/master/HW1/hw01_task.ipynb)
 * [Clustering](https://github.com/MIXOZ/ML/tree/master/HW2/hw02_task.ipynb)
