@@ -2,7 +2,7 @@
 
 Repository with ML hometasks
 
-* KNN
+* [KNN](https://github.com/MIXOZ/ML/tree/master/HW1)
 * Clustering
 * Linear regression
 * Perceptron
