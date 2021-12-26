@@ -9,3 +9,5 @@ Repository with ML home tasks
 * [Simple neural network](https://github.com/MIXOZ/ML/tree/master/HW5/hw05_task.ipynb)
 * [DCGAN and VAE](https://github.com/MIXOZ/ML/tree/master/HW6/hw06_task.ipynb)
 * [SVM](https://github.com/MIXOZ/ML/tree/master/HW7/hw07_task.ipynb)
+* [Decision trees](https://github.com/MIXOZ/ML/tree/master/HW7/hw08_task.ipynb)
+* [Random forest](https://github.com/MIXOZ/ML/tree/master/HW7/hw09_task.ipynb)
